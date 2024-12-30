@@ -39,10 +39,6 @@ pip install requests whois dnspython ipwhois beautifulsoup4
    - Enter a domain name in the input field and click **Submit**.
    - The results will be displayed in the text area.
 
-## Screenshots
-
-![GUI Screenshot](#) *(Add a screenshot here)*
-
 ## Output Example
 
 ```plaintext
